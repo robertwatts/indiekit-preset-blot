@@ -1,0 +1,24 @@
+{
+  "name": "indiekit-preset-blot",
+  "version": "0.0.1",
+  "author": "robertwatts",
+  "keywords": [
+    "indiekit",
+    "indiekit-plugin",
+    "indiekit-preset",
+    "indieweb",
+    "blot",
+    "blot.im"
+  ],
+  "description": "Blot.im publication preset for Indiekit",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robertwatts/indiekit-preset-blot",
+    "directory": "packages/indiekit-preset-blot"
+  },
+  "bugs": "https://github.com/robertwatts/indiekit-preset-blot/issues",
+  "type": "module",
+  "dependencies": {
+    "yaml": "^2.2.1"
+  }
+}
