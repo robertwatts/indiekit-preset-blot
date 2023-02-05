@@ -1,5 +1,4 @@
 import YAML from "yaml";
-import { version } from '../package.json'
 
 export default class BlotPreset {
   constructor() {
@@ -8,9 +7,9 @@ export default class BlotPreset {
     this.name = "Blot preset";
   }
 
-  get info() {
+  get info() {  
     return {
-      name: `Blot preset ${version}`,
+      name: "Blot",
     };
   }
 

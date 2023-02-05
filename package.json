@@ -10,6 +10,7 @@
     "blot",
     "blot.im"
   ],
+  "main": "index.js",
   "description": "Blot.im publication preset for Indiekit",
   "repository": {
     "type": "git",
